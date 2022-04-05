@@ -198,7 +198,7 @@ Feel free to clone this project, check the code or contact me if you want or fin
 
 * 42 Login:	*zrdouane*
 * Email:		*zrdouane@student.1337.ma*
-* [![so_long] (https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/stats?cursusId=21&coalitionId=73)]
+[![zrdouane's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2517732)](https://github.com/JaeSeoKim/badge42)
 
 Good luck with your projects!
 
